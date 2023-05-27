@@ -1,1 +1,1 @@
-# csa3821-software-quality
+# CSA3821-SQAM
